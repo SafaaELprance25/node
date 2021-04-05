@@ -1,0 +1,14 @@
+[
+    {
+        "name": "reem",
+        "subject": "math",
+        "grade": 80,
+        "comment": "is pass"
+    },
+    {
+        "nameOfStudent": "marwn",
+        "subject": "engish",
+        "grade": 30,
+        "comment": "fail"
+    }
+]
